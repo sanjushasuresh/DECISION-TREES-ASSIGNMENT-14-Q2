@@ -2,7 +2,7 @@
 """
 Created on Fri Nov 25 20:06:15 2022
 
-@author: LENOVO
+@author: SANJUSHA
 """
 
 # DECISION TREE CLASSIFIER
